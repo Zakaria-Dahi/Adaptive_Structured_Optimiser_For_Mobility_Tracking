@@ -23,4 +23,4 @@
 - `Results`: Once executed the results are stored in excel files with name Network_a_bxc, where a represent the ID of networks of such shape, b and c represent the number of cells in the width and height of the network.
     
 ## **Demo :movie_camera:**
-- Please refer to the original paper [HERE](https://link.springer.com/article/10.1007/s00500-019-04125-w) for more detailed results and discussions.
+- Please refer to the original paper [HERE](https://www.sciencedirect.com/science/article/pii/S0957417418301301) for more detailed results and discussions.
