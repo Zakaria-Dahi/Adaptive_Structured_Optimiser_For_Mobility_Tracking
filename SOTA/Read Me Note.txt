@@ -1,0 +1,9 @@
+- It is worth to mention that the SOTA code is the one run for the "TAKEOVER TIME DRIVEN EVOLUTIONARY ALGORITHM".
+- We did not run them again for the "STOP AND START ADAPTIVE CELLULAR GENETIC ALGORITHM". We just used the same 
+results as the ones of "TAKEOVER TIME DRIVEN EVOLUTIONARY ALGORITHM".
+
+
+% ----------------- Code Checking ----------------
+OI-GA is checked (22/10/2017 at 12:46)
+GPSO is checked (22/10/2017 at 17:07)
+DE is checked (22/10/2017 at 17:30)

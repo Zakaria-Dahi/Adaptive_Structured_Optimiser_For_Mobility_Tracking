@@ -1,0 +1,4 @@
+- Folder "Firs Set": contains the code of our 2SA-cGA using the restart mechanism. It is performed for instances of size < 100 cells.
+- Folder "Second Set": contains the code of our 2SA-cGA but without using the restart mechanism. It is performed for instances of size >= 100 cells.
+ ********************* Verification *******************
+ both codes of the 2SA-cGA for the first and second set of instances have been entirely checked the 25/10/2017 at MISC laboratory, constantine 2 university
